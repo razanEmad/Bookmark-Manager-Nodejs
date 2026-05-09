@@ -4,7 +4,7 @@
 
 ### Clone the repository
 ```bash
-git clone https://github.com/razanEmad/Project-and-Task-Manager-BackEnd.git
+git clone https://github.com/razanEmad/Bookmark-Manager-Nodejs
 ```
 ### Install dependencies
 ```bash
